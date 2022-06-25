@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vigneshgana98
-- 👀 I’m interested in playing football
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning java s cript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ask my friends
 
